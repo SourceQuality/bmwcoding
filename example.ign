@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.4.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "coreos00",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDijDvmjXBrSGuvoDWY402yI0e0X3p9InoC24c/imAzF andrewhelpern@gmail.com"
+        ]
+      }
+    ]
+  }
+}
